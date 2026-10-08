@@ -7,6 +7,7 @@ dist
 dist-files
 release
 build
+build_dist
 
 # Android build outputs
 android/app/build
