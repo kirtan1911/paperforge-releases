@@ -1,0 +1,10 @@
+appId: com.paperforge.app
+productName: PaperForge
+directories:
+  output: release
+nsis:
+  artifactName: PaperForge-Setup.${ext}
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+win:
+  target: nsis
